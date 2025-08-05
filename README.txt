@@ -3,7 +3,7 @@
 
 1. Instale o Node.js: https://nodejs.org/
 2. No CMD, vá até a pasta do bot:
-   cd D:\DOCUMENTOS USUARIOS\RAFAEL\Documents\Ofc_corrigido
+   cd D:\DOCUMENTOS USUARIOS\RAFAEL\Documents\rafa-bot-ofc
 
 3. Instale as dependências:
    npm install
